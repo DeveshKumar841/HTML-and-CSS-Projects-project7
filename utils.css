@@ -1,0 +1,39 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-grey {
+  background-color: #87ceeb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* .mx-width {
+  max-width: 30vw;
+} */
+
+.mx-auto {
+  margin: auto;
+}
+
+.button {
+  padding: 20px;
+  margin: 8px;
+  border: 2px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  /* margin: 0 8px; */
+}
+
+.row {
+  /* margin: 8px 0; */
+}
+
+.row input {
+  /* margin: 0; */
+  font-size: 21px;
+  padding: 10px 0px;
+  border: 3px solid black;
+  border-radius: 6px;
+}
